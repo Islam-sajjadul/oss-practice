@@ -1,7 +1,8 @@
 # oss-practice
+
 ## About me
 
-- Name: Your Name
+- Name: Islam Sajjadul
 - Student ID: 23120185
-- Major: Your Major
+- Major: Information System and security
 - Interests: AI, Machine Learning, Open Source Software
