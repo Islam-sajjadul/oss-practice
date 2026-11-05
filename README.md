@@ -1,8 +1,12 @@
 # oss-practice
 
-## About me
+A small Python project for practicing open-source software.
 
-- Name: Islam Sajjadul
-- Student ID: 23120185
-- Major: Information System and security
-- Interests: AI, Machine Learning, Open Source Software
+## Library used
+
+This project uses `tabulate==0.10.0` to display information in a formatted table.
+
+## How to install
+
+```bash
+python -m pip install -r requirements.txt
